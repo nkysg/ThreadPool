@@ -1,7 +1,7 @@
 /*************************************************************************
 	> File Name: ThreadPoolEx.h
-	> Author: yesonggao
-	> Mail: yesonggao@sensetime 
+	> Author: nk_ysg 
+	> Mail: nk_ysg@163.com 
 	> Created Time: 2018-02-24 17:21:28
  ************************************************************************/
 #pragma once
